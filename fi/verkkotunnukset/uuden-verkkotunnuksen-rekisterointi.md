@@ -55,6 +55,7 @@ Kirjoita yhteystietolomakkeeseen verkkotunnuksen omistajan henkilötiedot ja pai
 ## 9. Anna maksutiedot
 
 Kirjoita Stripe-maksulomakkeeseen luottokorttisi tiedot. Näitä tietoja käytetään ainoastaan verkkotunnuksen rekisteröinnin maksamiseen. Antamasi luottokortti lisätään oletusmaksutavaksi, jota käytetään jatkossa uusien verkkotunnusten rekisteröintiin ja verkkotunnusten uusimiseen.
+
 <img src="images/register-domain-step-9-897x1024.png" width="200" />
 
 ## 10. Vahvista tilaus
