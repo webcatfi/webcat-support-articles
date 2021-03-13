@@ -1,3 +1,3 @@
 # WebCat Support Articles
 
-[WebCat Support Article Wiki](wiki)
+[WebCat Support Articles Wiki](https://github.com/webcatfi/webcat-support-articles/wiki)
