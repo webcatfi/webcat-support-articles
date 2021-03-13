@@ -1,5 +1,9 @@
 # Verkkotunnuksen uusiminen
 
+Verkkotunnukset ovat voimassa yleensä vuoden kerrallaan. Niiden rekisteröinti on uusittava säännöllisesti ennen voimassaolon päättymistä. Silloin voimassaoloaikaan lisätään vuosi lisää aiemmasta voimassaolon päättymispäivästä eteenpäin.
+
+## Automaattinen uusiminen
+
 WebCat-palvelussa rekisteröidyt verkkotunnukset uusiutuvat automaattisesti vuosittain, jos tiliin on liitetty toimiva maksukortti oletusmaksutavaksi. WebCat uusii verkkotunnuksen automaattisesti kuukautta ennen kuin se vanhenee. Jos uusiminen ei jostain syystä onnistu heti, sitä yritetään uudelleen kuukauden ajan. Saat tästä viestin sähköpostiisi.
 
 ## Automaattisen uusimisen estäminen
