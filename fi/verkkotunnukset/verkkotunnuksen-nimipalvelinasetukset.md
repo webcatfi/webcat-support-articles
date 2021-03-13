@@ -4,7 +4,6 @@ Kun rekisteröit uuden verkkotunnuksen, WebCat tekee sille automaattisesti parkk
 
 ![Image 1](images/domain-nameserver-1-1024x497.png)
 
-
 Jos haluat käyttää omaa nimipalvelinta WebCatin ulkopuolisessa järjestelmässä, valitse asetuksista *Omat nimipalvelimet*.
 
 ![Image 2](images/domain-nameserver-2-1024x544.png)
