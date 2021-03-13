@@ -7,3 +7,5 @@ Huomaathan, että kun olet kertaalleen rekisteröinyt henkilötietosi ja maksuko
 ## 1. Avaa [WebCat](https://webcat.fi)-etusivu
 
 Aloita avaamalla etusivumme https://webcat.fi. Tällä sivulla voit tarkistaa onko haluamasi verkkotunnus vapaana.
+
+![Image 1](images/register-domain-step-1-1024x556.png)
