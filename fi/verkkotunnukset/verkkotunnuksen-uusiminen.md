@@ -6,7 +6,7 @@ WebCat-palvelussa rekisteröidyt verkkotunnukset uusiutuvat automaattisesti vuos
 
 Jos et halua, että WebCat uusii verkkotunnuksesi automaattisesti vuosittain, voit asettaa automaattisen uusimisen pois päältä verkkotunnuksen asetuksista *Automaattinen uusiminen: Käytössä* -painikkeesta.
 
-![Image 1](images/renew-domain-1-1024x537.png|width=400px)
+<img src="images/renew-domain-1-1024x537.png" width="100">
 
 ## Verkkotunnuksen uusiminen käsin
 
