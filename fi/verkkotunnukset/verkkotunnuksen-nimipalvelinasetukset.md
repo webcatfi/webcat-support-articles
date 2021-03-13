@@ -1,8 +1,14 @@
 # Verkkotunnuksen nimipalvelinasetukset
 
-Kun rekisteröit uuden verkkotunnuksen, WebCat tekee sille automaattisesti parkkeeratun verkko-osoitteen. Parkkeeratussa verkko-osoitteessa näkyy yksinkertainen oletussivu. Jotta voit ottaa verkkotunnuksen käyttöön muualla, sinun täytyy määritellä verkkotunnukselle oikeat nimipalvelinasetukset. Pääset muokkaamaan verkkotunnuksen nimipalvelinasetuksia *Muokkaa nimipalvelinasetuksia* -painikkeesta.
+Kun rekisteröit uuden verkkotunnuksen, WebCat tekee sille automaattisesti parkkeeratun verkko-osoitteen. Parkkeeratussa verkko-osoitteessa näkyy yksinkertainen oletussivu. Jotta voit ottaa verkkotunnuksen käyttöön muualla, sinun täytyy määritellä verkkotunnukselle oikeat nimipalvelinasetukset.
+
+## Nimipalvelinasetusten muokkaaminen
+
+Pääset muokkaamaan verkkotunnuksen nimipalvelinasetuksia *Muokkaa nimipalvelinasetuksia* -painikkeesta.
 
 <img src="images/domain-nameserver-1-1024x497.png" width="200" />
+
+## Oman nimipalvelimen käyttäminen
 
 Jos haluat käyttää omaa nimipalvelinta WebCatin ulkopuolisessa järjestelmässä, valitse asetuksista *Omat nimipalvelimet*.
 
