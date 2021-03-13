@@ -8,7 +8,7 @@ Huomaathan, että kun olet kertaalleen rekisteröinyt henkilötietosi ja maksuko
 
 Aloita avaamalla etusivumme https://webcat.fi. Tällä sivulla voit tarkistaa onko haluamasi verkkotunnus vapaana.
 
-![Image 1](images/register-domain-step-1-1024x556.png)
+<img src="images/register-domain-step-1-1024x556.png" width="200"/>
 
 ## 2. Tarkista verkkotunnuksen saatavuus
 
