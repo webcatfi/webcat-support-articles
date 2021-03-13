@@ -4,7 +4,7 @@ Tämä artikkeli neuvoo, miten rekisteröit uuden verkkotunnuksen uutena [WebCat
 
 Huomaathan, että kun olet kertaalleen rekisteröinyt henkilötietosi ja maksukorttisi [WebCat](https://webcat.fi)-palveluun, sinun ei tarvitse enää jatkossa antaa niitä uudelleen. Voit silloin hypätä yli kohdat 4-9.
 
-## 1. Avaa [WebCat](https://webcat.fi)-etusivu
+## 1. Avaa WebCat-etusivu
 
 Aloita avaamalla etusivumme https://webcat.fi. Tällä sivulla voit tarkistaa onko haluamasi verkkotunnus vapaana.
 
@@ -24,13 +24,13 @@ Paina Rekisteröi -painiketta, jos haluat rekisteröidä verkkotunnuksen saman t
 
 4. Luo uusi WebCat-tunnus
 
-Uutena asiakkaana sinun on ensin rekisteröidyttävä WebCat-käyttäjäksi painamalla Luo uusi tunnus -painiketta. Jos olet jo WebCat-käyttäjä, voit hypätä kohtaan 7.
+Uutena asiakkaana sinun on ensin rekisteröidyttävä [WebCat](https://webcat.fi)-käyttäjäksi painamalla Luo uusi tunnus -painiketta. Jos olet jo [WebCat](https://webcat.fi)-käyttäjä, voit hypätä kohtaan 7.
 
 ![Image 4](images/register-domain-step-4-1024x892.png)
 
 5. Anna käyttäjätietosi tunnusta varten
 
-Kirjoita rekisteröitymislomakkeeseen sähköpostiosoitteesi ja valitsemasi salasana. Paina sen jälkeen Luo tunnus -painiketta. WebCat lähettää sähköpostiosoitteeseesi vahvistuskoodin.
+Kirjoita rekisteröitymislomakkeeseen sähköpostiosoitteesi ja valitsemasi salasana. Paina sen jälkeen Luo tunnus -painiketta. [WebCat](https://webcat.fi) lähettää sähköpostiosoitteeseesi vahvistuskoodin.
 
 ![Image 5](imags/register-domain-step-5-1024x892.png)
 
@@ -42,7 +42,7 @@ Kirjoita lomakkeeseen sähköpostitse vastaanottamasi vahvistuskoodi ja paina Va
 
 7. Kirjaudu sisään WebCat-tunnuksellasi
 
-Kirjaudu sisään uudella WebCat-tunnuksellasi antamalla sähköpostiosoitteesi ja salasanasi ja painamalla Kirjaudu-painiketta.
+Kirjaudu sisään uudella [WebCat](https://webcat.fi)-tunnuksellasi antamalla sähköpostiosoitteesi ja salasanasi ja painamalla Kirjaudu-painiketta.
 
 ![Image 7](images/register-domain-step-7-1024x892.png)
 
